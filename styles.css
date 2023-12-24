@@ -1,0 +1,23 @@
+* {
+  background-color: gray;
+}
+footer {
+  background-image: linear-gradient(to right, blue, green, yellow, red);
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  text-shadow: 1px 1px 0 #000, 2px 2px 0 #000, 3px 3px 0 #000, 4px 4px 0 #000,
+    5px 5px 0 #000;
+  margin: 0;
+}
+
+.content {
+  color: white;
+}
